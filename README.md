@@ -1,4 +1,12 @@
 ## Hi there 👋
+## For my DEVOPS project visit the repos:
+https://github.com/birrkan/azure-aks-terraform-nginx-INFRA-REPO
+https://github.com/birrkan/azure-aks-terraform-nginx-APP-REPO
+
+### Overview of the Project
+This project demonstrates an end-to-end DevOps workflow for deploying a containerized web application to Microsoft Azure. A simple .NET application is packaged into a Docker container and automatically built and pushed to Azure Container Registry through a GitHub Actions CI/CD pipeline. The required Azure infrastructure, including networking, storage, container registry, and Azure Kubernetes Service (AKS), is provisioned using Terraform as Infrastructure as Code. Once deployed, AKS retrieves the container image from ACR and runs the application in a Kubernetes environment, creating a fully automated pipeline from source code to cloud deployment.
+
+---
 
 <!--
 **birrkan/birrkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
