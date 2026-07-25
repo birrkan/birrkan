@@ -11,6 +11,7 @@ This project demonstrates an end-to-end DevOps workflow for deploying a containe
 https://github.com/birrkan/ai-ops-project
 ### Overview of the Project
 AI Operations Command Center: A self-hosted AI-powered operations platform that connects IT service management (GLPI), project management (OpenProject), and knowledge management (XWiki) into a single intelligent layer. Built with a FastAPI backend and a local LLM (llama.cpp), the system uses RAG with PGVector for persistent memory, allowing it to analyze incidents, detect recurring patterns, escalate tickets to development tasks, generate operational reports, and answer "What is happening right now?" across all systems. The entire infrastructure is deployed and managed via Ansible with encrypted vault secrets, running in Docker containers on a single server for a production-grade, reproducible setup.
+
 ---
 <!--
 **birrkan/birrkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
