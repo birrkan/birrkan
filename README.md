@@ -20,6 +20,7 @@ A self-hosted AI-powered management dashboard that connects IT service managemen
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ### For my OOP (Object orianted programming) projects, visit:
 https://github.com/birrkan/OOP-Python-Flask-SQL-CI-RestAPI-Tests-Docker  
+https://github.com/birrkan/CPP-QT-DataStructures-TaskManagerApp  
 https://github.com/birrkan/Python-KivyApp-TCPSocket-Pandas-SQL-ImageManipulation  
 
 ### For my small focused bash scripts, visit:
