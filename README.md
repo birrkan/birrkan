@@ -10,10 +10,11 @@ This project demonstrates an end-to-end DevOps workflow for deploying a containe
 
 ---
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-### (Active | In Progress) For my AI-powered operations/project management project, visit:
+### (Active | In Progress) For my Cross-Platform Project & Ops Dashboard with AI Insights, visit:
 https://github.com/birrkan/ai-ops-project
 #### Overview of the Project  (🔧 Tools used: Ansible, FastAPI, llama.cpp, GLPI, XWiki, OpenProject)  
-AI Operations Command Center: A self-hosted AI-powered operations platform that connects IT service management (GLPI), project management (OpenProject), and knowledge management (XWiki) into a single intelligent layer. Built with a FastAPI backend and a local LLM (llama.cpp), the system uses RAG with PGVector for persistent memory, allowing it to analyze incidents, detect recurring patterns, escalate tickets to development tasks, generate operational reports, and answer "What is happening right now?" across all systems. The entire infrastructure is deployed and managed via Ansible with encrypted vault secrets, running in Docker containers on a single server for a production-grade, reproducible setup.
+Cross-Platform Project & Ops Dashboard with AI Insights:
+A self-hosted AI-powered management dashboard that connects IT service management, development workflows, and organizational knowledge into a unified operational view. The platform integrates GLPI (incidents and requests), OpenProject (development tasks and project progress), and XWiki (knowledge base) to provide AI-generated summaries, trend analysis, and weekly operational reports. A locally hosted LLM analyzes data from connected systems while keeping business information private. The platform is deployed on a single server using Ansible and developed with FastAPI.
 
 ---
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
