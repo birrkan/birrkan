@@ -10,7 +10,7 @@ This project demonstrates an end-to-end DevOps workflow for deploying a containe
 
 ---
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-### (Active | In Progress) For my Cross-Platform Project & Ops Dashboard with AI Insights, visit:
+### For my Cross-Platform Project & Ops Dashboard with AI Insights, visit:
 https://github.com/birrkan/ai-ops-project
 #### Overview of the Project  (🔧 Tools used: Ansible, FastAPI, llama.cpp, GLPI, XWiki, OpenProject)  
 Cross-Platform Project & Ops Dashboard with AI Insights:
